@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 -----Description-----------------------
 
-This repository was created to share my data science projects with the community at large, particularly recruiters for Data Science jobs.
+This github profile was created to share my data science projects with the community at large, particularly recruiters for Data Science jobs.
 Here, you'll find Python code written in Jupyter Notebook, encompassing data analysis and machine learning models. 
 Additionally, there are also PostgreSQL scripts. New projects and materials will be regularly added over time.
 
@@ -26,3 +26,5 @@ Programming has always fascinated me since my first encounter with a programming
 Recently, I have been leveraging my background in the scientific field and applying it to data science and statistical analysis projects
 
 Each project directory contains a Jupyter Notebook (.ipynb) that can be executed to replicate the analyses and models.
+When necessary, auxiliary documents to fully understand each project are also included, such as datasheets (CSV, XLSX, etc.), SQL scripts, auxiliary files, PDFs, and more. 
+ 
