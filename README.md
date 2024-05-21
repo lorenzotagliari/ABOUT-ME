@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzotagliari
 - 👀 I’m interested in Data Science and analysis projects, statiscal analysis techniques and A.I.
-- 🌱 I’m currently learning Machine learning Algorithms, Data science Projects and statistical analysis. 
+- 🌱 I’m currently learning Machine learning Algorithms, Data science and statistical analysis.
 - 💞️ I’m looking to collaborate on projects that involves Python, PostgreSQL, Data Visualization on Power BI
 - 📫 How to reach me:
 -       https://www.linkedin.com/in/lorenzo-r%C3%BChling-tagliari-66a89595/
